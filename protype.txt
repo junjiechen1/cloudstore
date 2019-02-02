@@ -1,0 +1,74 @@
+in our prototype we will be focused on cloud store
+problem we will run into
+
+-marvel for model
+
+- upload app page ( for app holders) from web page
+	-simple for upload and connection 
+
+- download into phone for phoneusers
+	- app will be downloaded from app store 
+
+- download into cloud 
+
+- open app with cloud
+
+- a page for cloud ( shows app so user can click it)
+
+- delete app from cloud and from cloudpage
+
+- user datastorage (login , signup)
+
+- user profile setting
+
+- calagories for each different type of apps
+
+
+
+
+
+
+after prototype we will work on virtual machine
+
+- default virtual machine layout
+
+- initially able to customize virtual machine
+
+- initial apps when downloaded(clock , alarm , calendar)
+
+- run apps in virtual machine 
+
+- delete apps from virtual machine
+
+
+
+
+
+
+
+upgrade version for virtual machine 
+
+-app run smooth inside virtual machine
+
+-compress apps in virtual machine 
+
+
+
+
+
+
+final step 
+
+- design for apps
+
+- come up with a name for app
+
+- check bugs 
+
+-finger print login
+
+
+
+
+
+
